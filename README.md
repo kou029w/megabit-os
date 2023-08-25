@@ -1,3 +1,5 @@
+**このプロジェクトは現在メンテナンスされていません。もしフィードバックあれば[Mastodon/ActivityPub](https://fogtype.com/@nebel)にてお寄せください。**
+
 # Megabit OS
 
 [Megabit](https://github.com/kou029w/megabit) をすぐに試せる実行環境とそれをビルドするためのツール群
